@@ -17,7 +17,7 @@ I help organizations improve their security by testing their web applications to
 
 I am a Cybersecurity Analyst with a B.Sc. in Cybersecurity, skilled in penetration testing, vulnerability assessment, and threat analysis. Hands-on experience with tools like Burp Suite, Wireshark, and Nmap, complemented by practical projects and CTFs that demonstrate strong problem-solving and offensive security skills.**. 
 
-As a penetration testwer, I always find it intriguing how many website vulnerabilties are hidden in plain sight if not found immediately and remediated. This intrigue led me to the passion I explore today which is cybersecurity.
+As a penetration tester, it always intrigues me how many website vulnerabilities are hidden in plain sight if not immediately found and remediated. This intrigue led me to the passion I explore today, which is cybersecurity.
 
 I frequently share my work online to educate my audience on what I do.
 
@@ -71,7 +71,7 @@ I constantly share blogs and posts on what I know, and my journey on my [Medium 
 
 ## Open to Work
 
-I'm actively looking for opportunities as a **Web App Penetration Tester** — contract, full-time, or internships.
+I'm actively open to opportunities as a **Web App Penetration Tester** — contract, full-time, or internships.
 
 If you're building a team in any of these fields and need someone with knowledge and experience in it, I'll be glad to work with you.
 
